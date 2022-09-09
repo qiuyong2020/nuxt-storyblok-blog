@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about", {data:[{title:"Hi, that's us!",content:"前端开发者共同建设一个有趣的博客。\n\n欢迎更多贡献者加入我们！"}],fetch:{},mutations:void 0});

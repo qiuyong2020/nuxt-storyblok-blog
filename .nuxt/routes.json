@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\邱勇\\\\Desktop\\\\project-collection\\\\storyblok-blog\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_17b05750"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\邱勇\\\\Desktop\\\\project-collection\\\\storyblok-blog\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_4ca25195"
+  },
+  {
+    "name": "blog-postId",
+    "path": "/blog/:postId",
+    "component": "C:\\\\Users\\\\邱勇\\\\Desktop\\\\project-collection\\\\storyblok-blog\\\\pages\\\\blog\\\\_postId\\\\index.vue",
+    "chunkName": "pages/blog/_postId/index",
+    "_name": "_ee66fe36"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\邱勇\\\\Desktop\\\\project-collection\\\\storyblok-blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_695143b7"
+  }
+]

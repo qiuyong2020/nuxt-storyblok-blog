@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/our-second-post", {data:[{image:"\u002F\u002Fa.storyblok.com\u002Ff\u002F173448\u002F1280x693\u002Fd4b3a3da34\u002Fxiaoyao.jpeg",title:"Our second post",content:"Today Rua yahoo.\n\nIt's also awesome!"}],fetch:{},mutations:void 0});

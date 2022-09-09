@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/our-first-post", {data:[{image:"\u002F\u002Fa.storyblok.com\u002Ff\u002F173448\u002F5850x3100\u002F6ea1369d39\u002Fzard.jfif",title:"Our first post",content:"How easy and convenient it is!"}],fetch:{},mutations:void 0});
